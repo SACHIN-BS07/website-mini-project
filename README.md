@@ -69,6 +69,8 @@ document.getElementById('contactForm').addEventListener('submit', async function
   <footer>
     <p>© 2025 SACHIN B S</p>
   </footer>
+  </body>
+</html>
 
   css: 
   /* Reset some default styles */
@@ -189,5 +191,4 @@ app.post('/contact', (req, res) => {
 
 app.listen(3000, () => console.log('Server running on http://localhost:3000'));
   
-</body>
-</html>
+
