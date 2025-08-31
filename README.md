@@ -1,4 +1,4 @@
-# website-mini-project  : http://127.0.0.1:5500/index.html
+# portfolio-website-mini-project  : http://127.0.0.1:5500/index.html
 mini portfolio website is help to get a pratical knowledge in web development . it make me excite ..
 code :
 html :
